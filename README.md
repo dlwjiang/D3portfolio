@@ -1,5 +1,5 @@
 <!-- Box Plot -->
-[![ScreenShot]("boxPlotVid.png")](http://youtu.be/i3ciZqJSLMI)
+[![ScreenShot](boxPlotVid.png)](http://youtu.be/i3ciZqJSLMI)
 [![ScreenShot](something.png)](http://youtu.be/i3ciZqJSLMI)
 [![ScreenShot](something.png)](http://youtu.be/i3ciZqJSLMI)
 [![ScreenShot](something.png)](http://youtu.be/i3ciZqJSLMI)
