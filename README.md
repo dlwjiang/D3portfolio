@@ -1,6 +1,9 @@
 
 
 
+<!-- Vertical Ontology -->
+[![ScreenShot](Media/verticalVid.png)](http://www.youtube.com/watch?v=4W8prhPX9ZI)
+Movie Ontology with Labels
 
 <!-- Box Plot -->
 [![ScreenShot](Media/boxPlotVid.png)](http://youtu.be/i3ciZqJSLMI)
@@ -20,7 +23,7 @@ Graphing Utility to see degrees of connections between actors
 
 <!-- Ontology Overview -->
 [![ScreenShot](Media/ontologyVid.png)](http://youtu.be/FqiKLn8kGTU)
-Movie Ontology with Labels
+Movie Ontology with Labels, Circular Layout
 
 <!-- Sigma Graph -->
 [![ScreenShot](Media/sigmaVid.png)](http://youtu.be/8Gw_M5DwrAA)
