@@ -1,32 +1,39 @@
+
+
+
+
 <!-- Box Plot -->
 [![ScreenShot](boxPlotVid.png)](http://youtu.be/i3ciZqJSLMI)
-these are words
+Animated Box Plot
+
 <!-- Colorful Ontology -->
 [![ScreenShot](colorOntVid.png)](http://youtu.be/M3TkpepPLNk)
-these are words
+Graph of a Movie Ontology
 
 <!-- Force Directed Sample -->
 [![ScreenShot](forceVid.png)](http://youtu.be/3Z22BCVnXjM)
-these are words
+Force Directed Fun-Ball
 
 <!-- Graph Connections -->
 [![ScreenShot](graphVid.png)](http://youtu.be/YEdGC-Diicw)
-these are words
+Graphing Utility to see degrees of connections between actors 
 
 <!-- Ontology Overview -->
 [![ScreenShot](ontologyVid.png)](http://youtu.be/FqiKLn8kGTU)
-these are words
+Movie Ontology with Labels
 
 <!-- Sigma Graph -->
 [![ScreenShot](sigmaVid.png)](http://youtu.be/8Gw_M5DwrAA)
-these are words
-
+Example of Sigma.js Graph with fisheye effect mouseover
 <!-- Time Series -->
 [![ScreenShot](timeVid.png)](http://youtu.be/YUBmOYbqp3w)
-these are words
+Time Series Bar Graph Example
 
 ![ScreenShot](brad.png)
-![ScreenShot](depp.png)
-![ScreenShot](cluster.png)
-these are words
+Sample from Graphing Utility
 
+![ScreenShot](depp.png)
+Sample from Graphing Utility
+
+![ScreenShot](cluster.png)
+Hierarchy Graph Example
