@@ -31,6 +31,8 @@ Example of Sigma.js Graph with fisheye effect mouseover
 <!-- Time Series -->
 [![ScreenShot](Media/timeVid.png)](http://youtu.be/YUBmOYbqp3w)
 Time Series Bar Graph Example
+<!-- spark relief -->;
+[![ScreenShot](Media/sparkRelief.png)](http://www.youtube.com/watch?v=trDaNm6-7Rk&feature=youtu.be)
 
 ![ScreenShot](Media/brad.png)
 Sample from Graphing Utility
